@@ -71,15 +71,20 @@ div.thumbnail{
 }
 li{
     font-size: 1.25em;
-    padding-left: 3%;
+    padding-left: 1%;
     color:white;
     font-family: Buxton Sketch,sans-serif,verdana;
+}
+#subList{
+   
+    padding-left: 10%;
+    
 }
 .sublist{
     color:white;
     font-size: 1.25em;
     font-family: Buxton Sketch,sans-serif,verdana;
-    padding-left: 7%;
+    padding-left: 3%;
 }
 .leftcurtain{
       width: 50%;
