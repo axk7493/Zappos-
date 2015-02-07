@@ -1,0 +1,1 @@
+This website is designed using HTML5, CSS, Bootstrap, JQuery and main page is demo.html 
